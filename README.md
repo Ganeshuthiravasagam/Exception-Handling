@@ -1,5 +1,7 @@
 # Exception-Handling 😈
 
+![image](https://github.com/Ganeshuthiravasagam/Exception-Handling/blob/main/Exception%20Handling.png)
+
 - A) Write ✍ a function to compute 5/0 and use try/except to catch the exceptions. 
 
 - B) Implement a Python program to generate all sentences where xsubject is in
