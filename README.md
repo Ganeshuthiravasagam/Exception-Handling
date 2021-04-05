@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Ganeshuthiravasagam/Exception-Handling/blob/main/Exception%20Handling.png)
 
-## Question
+## Question 👨‍🏫
 
 - A) Write ✍ a function to compute 5/0 and use try/except to catch the exceptions. 
 
